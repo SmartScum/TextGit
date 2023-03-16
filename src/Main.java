@@ -9,4 +9,8 @@ public class Main {
         System.out.println("我是分支");
     }
 
+    public static void smart(){
+        System.out.println("SmartScum的年龄"+age);
+    }
+
 }
