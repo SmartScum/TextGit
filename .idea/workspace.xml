@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a892148c-460e-4556-bba2-5a4fdd624313" name="Changes" comment="修改输出">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,7 +18,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="703ec86ac99cfd4147ba66fe5e9835753fedc18b" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -78,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678938091549</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="准备合并">
+      <created>1678947504103</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678947504103</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,6 +95,8 @@
     <MESSAGE value="又修改输出" />
     <MESSAGE value="ti" />
     <MESSAGE value="分支" />
-    <option name="LAST_COMMIT_MESSAGE" value="分支" />
+    <MESSAGE value="准备合并" />
+    <MESSAGE value="dev和master的合并" />
+    <option name="LAST_COMMIT_MESSAGE" value="dev和master的合并" />
   </component>
 </project>
