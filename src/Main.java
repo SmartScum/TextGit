@@ -12,4 +12,8 @@ public class Main {
     public static void admin(){
         System.out.println("帅气的人渣"+name);
     }
+    public static void smart(){
+        System.out.println("SmartScum的年龄"+age);
+    }
+
 }
