@@ -9,4 +9,7 @@ public class Main {
         System.out.println("我是分支");
     }
 
+    public static void admin(){
+        System.out.println("帅气的人渣"+name);
+    }
 }
